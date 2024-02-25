@@ -8,7 +8,6 @@
 <a href="https://linkedin.com/in/ajeet-rohilla-01a099203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajeet-rohilla-01a099203" height="30" width="40" /></a>
 <a href="https://kaggle.com/ajeetrohilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ajeetrohilla" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ajeet_ashu14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajeet_ashu14" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@rohilla_ajeet12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@rohilla_ajeet12" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/rohillaajeet12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rohillaajeet12" height="30" width="40" /></a>
 </p>
 
