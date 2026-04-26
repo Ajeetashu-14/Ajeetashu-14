@@ -9,7 +9,7 @@ Building LLM-powered applications, RAG pipelines, and intelligent document syste
 
 ## 👨‍💻 About Me
 
-- 💼 Associate Software Engineer at :contentReference[oaicite:0]{index=0} (GenAI & Data Team)
+- 💼 Associate Software Engineer (GenAI & Data Team)
 - 🤖 Working on GenAI-powered applications, semantic search, and workflow automation
 - 🛠️ Building production-grade backend systems using FastAPI, Flask, and scalable architectures
 - 📚 Passionate about Backend Engineering, GenAI, LLMs, RAG, and System Design
