@@ -1,16 +1,109 @@
 <h1 align="center">Hi 👋, I'm Ajeet Rohilla</h1>
-<h3 align="center">A passionate learner and software developer from India</h3>
+<h3 align="center">Backend Engineer specializing in GenAI Applications</h3>
 
-- 📫 How to reach me **rohilla.ajeet12@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ajeet-rohilla-01a099203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajeet-rohilla-01a099203" height="30" width="40" /></a>
-<a href="https://kaggle.com/ajeetrohilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ajeetrohilla" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rohilla_ajeet12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rohilla_ajeet12" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ajeet_ashu14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajeet_ashu14" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rohillaajeet12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rohillaajeet12" height="30" width="40" /></a>
+<p align="center">
+Building LLM-powered applications, RAG pipelines, and intelligent document systems 🚀
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
+
+## 👨‍💻 About Me
+
+- 💼 Associate Software Engineer at :contentReference[oaicite:0]{index=0} (GenAI & Data Team)
+- 🤖 Working on GenAI-powered applications, semantic search, and workflow automation
+- 🛠️ Building production-grade backend systems using FastAPI, Flask, and scalable architectures
+- 📚 Passionate about Backend Engineering, GenAI, LLMs, RAG, and System Design
+- 🌱 Currently exploring LangChain, LangGraph, MLOps, and advanced AI workflows
+- 📫 Reach me at: **rohilla.ajeet12@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/ajeet-rohilla-01a099203" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+
+<a href="https://www.leetcode.com/ajeet_ashu14" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/rohillaajeet12" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
+</a>
+
+<a href="https://www.hackerrank.com/rohilla_ajeet12" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+</a>
+</p>
+
+---
+
+## ⚙️ Tech Stack
+
+### Languages
+`Python` `JavaScript` `C++` `SQL`
+
+### Backend & APIs
+`FastAPI` `Flask` `Express.js` `Node.js`
+
+### GenAI & LLM
+`OpenAI API` `LangChain` `Prompt Engineering` `RAG` `Embeddings`  
+`Vector Databases` `Document Generation` `Semantic Search`
+
+### Frontend
+`Angular` `React.js` `HTML` `CSS`
+
+### Databases
+`PostgreSQL` `MySQL` `MongoDB` `ChromaDB`
+
+### Cloud & DevOps
+`AWS (EC2, ECR)` `Docker` `Kubernetes` `Linux` `Git` `Azure DevOps`
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 CodeLens – AI-Powered GitHub Repository Analyzer
+
+Built an end-to-end RAG-based code analysis platform for querying GitHub repositories using natural language.
+
+- FastAPI + ChromaDB backend
+- Embeddings + semantic retrieval
+- Interactive chat + repository tree UI
+- Repository-level code understanding and architecture analysis
+
+---
+
+### 🔹 GenAI Document Drafting System
+
+Built enterprise-grade procurement workflow automation for document generation and customization.
+
+- LLM-powered draft generation from templates and SOWs
+- Natural language refinement using GenAI
+- Query reranking and relevance optimization
+- Near real-time ingestion pipelines with embeddings
+
+---
+
+## 🏆 Achievements
+
+- 📄 IEEE Publication – Real-time Video Stitching Optimization
+- 🥇 HackerRank SQL (Intermediate)
+- 🐳 Docker Certified Associate
+- 📘 Agile Fundamentals
+
+---
+
+## 📈 Current Focus
+
+```python
+Learning = [
+    "Advanced RAG Systems",
+    "LangGraph",
+    "Agentic AI Workflows",
+    "MLOps",
+    "System Design",
+    "High-Scale Backend Engineering"
+]
