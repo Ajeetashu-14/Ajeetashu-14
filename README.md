@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajeet Rohilla</h1>
-<h3 align="center">Backend Engineer specializing in GenAI Applications</h3>
+<h3 align="center">Backend Engineer specializing in GenAI & AgenticAI Applications</h3>
 
 <p align="center">
 Building LLM-powered applications, RAG pipelines, and intelligent document systems 🚀
@@ -9,7 +9,7 @@ Building LLM-powered applications, RAG pipelines, and intelligent document syste
 
 ## 👨‍💻 About Me
 
-- 💼 Associate Software Engineer (GenAI & Data Team)
+- 💼 AI Engineer (GenAI & Data Team)
 - 🤖 Working on GenAI-powered applications, semantic search, and workflow automation
 - 🛠️ Building production-grade backend systems using FastAPI, Flask, and scalable architectures
 - 📚 Passionate about Backend Engineering, GenAI, LLMs, RAG, and System Design
